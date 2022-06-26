@@ -1,6 +1,6 @@
 Cài đặt ứng dụng:
 ```
-1. git clone https://github.com/tcgnam/chat-app
+1. git clone https://github.com/tgcgnam/chat-app
 2. cd chat-app
 3. npm install
 4. npm run dev
